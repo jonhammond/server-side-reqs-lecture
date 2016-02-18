@@ -14,7 +14,6 @@ function requestHandler (req, res) {
     }
     else {
       res.setHeader('Content-Type', 'application/json');
-      // res.write('<ul><li>'+ imdbID + '<li><ul>');
       res.end(response.body);
     }
   });
