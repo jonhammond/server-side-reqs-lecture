@@ -37,7 +37,4 @@ function requestHandler (req, res) {
 //   -H 'Content-Type: application/json' \
 //   -d '{"longUrl": "http://www.google.com/"}';
 
-
-
-
 //api key = AIzaSyDzzDsex05qneJ6EjY9bPPwRWy2ELgs7g4
